@@ -1,0 +1,25 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "--std=gnu++17",
+      "-Wall",
+      "-Werror",
+      "-Wextra",
+      "-Wpedantic",
+      "-Wshadow",
+      "-Wno-unnused-variable",
+      "-Wcast-align",
+      "-O3",
+      "-fno-exceptions",
+      "-I../util/src/",
+      "-c",
+      "-o",
+      "obj//day1.o",
+      "src//day1.cpp"
+    ],
+    "directory": "/mnt/e/tayfe/Documents/Programming/AdventOfCode2023/day1",
+    "file": "/mnt/e/tayfe/Documents/Programming/AdventOfCode2023/day1/src/day1.cpp",
+    "output": "/mnt/e/tayfe/Documents/Programming/AdventOfCode2023/day1/obj/day1.o"
+  }
+]
